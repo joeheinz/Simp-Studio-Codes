@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 8 resources" deleteContents="false" description="Delete 8 resources" element1="/amazon_aws_soc_gatt_server" element2="/bootloader-apploader" element3="/bt_rcp-Host-Slave-Connection" element4="/bt_soc_blinky_2" element5="/bt_soc_blinky_old" element6="/bt_soc_blinky_shared" element7="/bt_soc_wandy_nigga" element8="/ml_magic_wand_3" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="8" stamp="1735238991137"/>
+</session>

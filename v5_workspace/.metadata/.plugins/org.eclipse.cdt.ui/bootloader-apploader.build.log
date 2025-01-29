@@ -1,0 +1,12 @@
+11:31:53 **** Build of configuration GNU ARM v12.2.1 - Default for project bootloader-apploader ****
+make -j7 all 
+make[1]: Nothing to be done for `main-build'.
+"/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/MacOS/commander" postbuild "/Users/joseheinz/SimplicityStudio/v5_workspace/bootloader-apploader/bootloader-apploader.slpb" --parameter build_dir:"/Users/joseheinz/SimplicityStudio/v5_workspace/bootloader-apploader/GNU ARM v12.2.1 - Default"
+Parsing file /Users/joseheinz/SimplicityStudio/v5_workspace/bootloader-apploader/bootloader-apploader.slpb...
+Running task convert...
+Running task convert...
+DONE
+ 
+
+11:31:54 Build Finished. 0 errors, 0 warnings. (took 295ms)
+

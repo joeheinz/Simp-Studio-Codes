@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="com.silabs.ss.framework.ide.project.ui.solution" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1734961646964_2" label="blinky_og" name="blinky_og">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/blinky_og" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1714117655244_0" label="Window Working Set" name="Aggregate for window 1714117655244"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1734962071272_9" label="Solutions" name="Solutions">
+<workingSet IMemento.internal.id="blinky_og"/>
+</workingSet>
+</workingSetManager>

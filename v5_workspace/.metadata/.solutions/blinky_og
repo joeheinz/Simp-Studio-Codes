@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?>
+<MSolutions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.silabs.com/ss/Solution.ecore">
+  <solution name="blinky_og" label="blinky_og">
+    <SolutionModuleReferences id="slc.workspace.data"/>
+    <property key="solution.activeDebugGroup" value="Default"/>
+    <project name="blinky_og"/>
+    <configuration name="Default">
+      <project builtin="true" name="blinky_og"/>
+    </configuration>
+    <SDMDefinition id="slc.workspace.data">
+      <project name="blinky_og" location="/Users/joseheinz/SimplicityStudio/v5_workspace/blinky_og/."/>
+    </SDMDefinition>
+  </solution>
+</MSolutions>

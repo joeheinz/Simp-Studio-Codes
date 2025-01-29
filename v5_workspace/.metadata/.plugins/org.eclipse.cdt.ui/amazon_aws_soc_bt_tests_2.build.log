@@ -1,0 +1,6 @@
+12:45:07 **** Incremental Build of configuration GNU ARM v12.2.1 - Default for project amazon_aws_soc_bt_tests_2 ****
+make -j7 all 
+make: Nothing to be done for `all'.
+
+12:45:07 Build Finished. 0 errors, 0 warnings. (took 243ms)
+

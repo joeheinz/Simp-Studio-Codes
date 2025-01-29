@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete 4 resources" deleteContents="false" description="Delete 4 resources" element1="/bt_soc_blinky" element2="/HelloWorld" element3="/ml_magic_wand" element4="/ml_magic_wand_2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1734783631343"/>&#x0A;<refactoring comment="Delete 2 resources" deleteContents="false" description="Delete 2 resources" element1="/amazon_aws_soc_bt_tests" element2="/amazon_aws_soc_bt_tests_2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1734783638964"/>
+</session>

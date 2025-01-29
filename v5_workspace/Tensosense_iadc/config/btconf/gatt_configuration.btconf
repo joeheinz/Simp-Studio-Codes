@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Custom BLE GATT-->
+<gatt gatt_caching="true" generic_attribute_service="true" header="gatt_db.h" name="Custom BLE GATT" out="gatt_db.c" prefix="gattdb_">
+
+  <!--Generic Access-->
+  <service advertise="false" name="Generic Access" requirement="mandatory" sourceId="org.bluetooth.service.generic_access" type="primary" uuid="1800">
+    <informativeText>Abstract: The generic_access service contains generic information about the device. All available Characteristics are readonly. </informativeText>
+
+    <!--Tensosense-->
+    <characteristic const="false" id="Tensosense" name="Tensosense" sourceId="org.bluetooth.characteristic.gap.device_name" uuid="2A00">
+      <value length="14" type="utf-8" variable_length="false">Tensosense</value>
+      <properties>
+        <read authenticated="false" bonded="false" encrypted="false"/>
+        <write authenticated="false" bonded="false" encrypted="false"/>
+      </properties>
+    </characteristic>
+
+    <!--Appearance-->
+    <characteristic const="true" name="Appearance" sourceId="org.bluetooth.characteristic.gap.appearance" uuid="2A01">
+      <informativeText>Abstract: The external appearance of this device. The values are composed of a category (10-bits) and sub-categories (6-bits). </informativeText>
+      <value length="2" type="hex" variable_length="false">0000</value>
+      <properties>
+        <read authenticated="false" bonded="false" encrypted="false"/>
+      </properties>
+    </characteristic>
+  </service>
+
+  <!--Device Information-->
+  <service advertise="false" id="device_information" name="Device Information" requirement="mandatory" sourceId="org.bluetooth.service.device_information" type="primary" uuid="180A">
+    <informativeText>Abstract: The Device Information Service exposes manufacturer and/or vendor information about a device. Summary: This service exposes manufacturer information about a device. The Device Information Service is instantiated as a Primary Service. Only one instance of the Device Information Service is exposed on a device.</informativeText>
+
+    <!--Manufacturer Name String-->
+    <characteristic const="true" id="manufacturer_name_string" name="Manufacturer Name String" sourceId="org.bluetooth.characteristic.manufacturer_name_string" uuid="2A29">
+      <informativeText>Abstract: The value of this characteristic is a UTF-8 string representing the name of the manufacturer of the device.</informativeText>
+      <value length="12" type="utf-8" variable_length="false">Silicon Labs</value>
+      <properties>
+        <read authenticated="false" bonded="false" encrypted="false"/>
+      </properties>
+    </characteristic>
+
+    <!--Model Number String-->
+    <characteristic const="false" id="model_number_string" name="Model Number String" sourceId="org.bluetooth.characteristic.model_number_string" uuid="2A24">
+      <informativeText>Abstract: The value of this characteristic is a UTF-8 string representing the model number assigned by the device vendor.</informativeText>
+      <value length="8" type="utf-8" variable_length="false">00000000</value>
+      <properties>
+        <read authenticated="false" bonded="false" encrypted="false"/>
+      </properties>
+    </characteristic>
+
+    <!--Hardware Revision String-->
+    <characteristic const="false" id="hardware_revision_string" name="Hardware Revision String" sourceId="org.bluetooth.characteristic.hardware_revision_string" uuid="2A27">
+      <informativeText>Summary: The value of this characteristic is a UTF-8 string representing the hardware revision for the hardware within the device.</informativeText>
+      <value length="3" type="utf-8" variable_length="false">000</value>
+      <properties>
+        <read authenticated="false" bonded="false" encrypted="false"/>
+      </properties>
+    </characteristic>
+
+    <!--Firmware Revision String-->
+    <characteristic const="false" id="firmware_revision_string" name="Firmware Revision String" sourceId="org.bluetooth.characteristic.firmware_revision_string" uuid="2A26">
+      <informativeText>Summary: The value of this characteristic is a UTF-8 string representing the firmware revision for the firmware within the device.</informativeText>
+      <value length="5" type="utf-8" variable_length="false">0.0.0</value>
+      <properties>
+        <read authenticated="false" bonded="false" encrypted="false"/>
+      </properties>
+    </characteristic>
+
+    <!--System ID-->
+    <characteristic const="false" id="system_id" name="System ID" sourceId="org.bluetooth.characteristic.system_id" uuid="2A23">
+      <informativeText>Abstract: The SYSTEM ID characteristic consists of a structure with two fields. The first field are the LSOs and the second field contains the MSOs. This is a 64-bit structure which consists of a 40-bit manufacturer-defined identifier concatenated with a 24 bit unique Organizationally Unique Identifier (OUI). The OUI is issued by the IEEE Registration Authority (http://standards.ieee.org/regauth/index.html) and is required to be used in accordance with IEEE Standard 802-2001.6 while the least significant 40 bits are manufacturer defined. If System ID generated based on a Bluetooth Device Address, it is required to be done as follows. System ID and the Bluetooth Device Address have a very similar structure: a Bluetooth Device Address is 48 bits in length and consists of a 24 bit Company Assigned Identifier (manufacturer defined identifier) concatenated with a 24 bit Company Identifier (OUI). In order to encapsulate a Bluetooth Device Address as System ID, the Company Identifier is concatenated with 0xFFFE followed by the Company Assigned Identifier of the Bluetooth Address. For more guidelines related to EUI-64, refer to http://standards.ieee.org/develop/regauth/tut/eui64.pdf. Examples: If the system ID is based of a Bluetooth Device Address with a Company Identifier (OUI) is 0x123456 and the Company Assigned Identifier is 0x9ABCDE, then the System Identifier is required to be 0x123456FFFE9ABCDE.</informativeText>
+      <value length="8" type="hex" variable_length="false"/>
+      <properties>
+        <read authenticated="false" bonded="false" encrypted="false"/>
+      </properties>
+    </characteristic>
+  </service>
+
+  <!--Blinky Example-->
+  <service advertise="false" name="Blinky Example" requirement="mandatory" sourceId="" type="primary" uuid="de8a5aac-a99b-c315-0c80-60d4cbb51224">
+
+    <!--LED Control-->
+    <characteristic const="false" id="led_control" name="LED Control" sourceId="" uuid="5b026510-4088-c297-46d8-be6c736a087a">
+      <value length="1" type="hex" variable_length="false">00</value>
+      <properties>
+        <read authenticated="false" bonded="false" encrypted="false"/>
+        <write authenticated="false" bonded="false" encrypted="false"/>
+      </properties>
+    </characteristic>
+
+    <!--Report Button-->
+    <characteristic const="false" id="report_button" name="Report Button" sourceId="" uuid="61a885a4-41c3-60d0-9a53-6d652a70d29c">
+      <value length="1" type="hex" variable_length="false">00</value>
+      <properties>
+        <read authenticated="false" bonded="false" encrypted="false"/>
+        <notify authenticated="false" bonded="false" encrypted="false"/>
+      </properties>
+    </characteristic>
+  </service>
+
+  <!--Battery Service-->
+  <service advertise="false" id="battery_service" name="Battery Service" requirement="mandatory" sourceId="org.bluetooth.service.battery_service" type="primary" uuid="180F">
+    <informativeText>Abstract: The Battery Service exposes the state of a battery within a device.
+Summary: The Battery Service exposes the Battery State and Battery Level of a single battery or set of batteries in a device.</informativeText>
+
+    <!--Battery Level-->
+    <characteristic const="false" id="battery_level" name="Battery Level" sourceId="org.bluetooth.characteristic.battery_level" uuid="2A19">
+      <informativeText>Abstract: 
+            The current charge level of a battery. 100% represents fully charged while 0% represents fully discharged.
+        </informativeText>
+      <value length="1" type="hex" variable_length="false"/>
+      <properties>
+        <read authenticated="false" bonded="false" encrypted="false"/>
+      </properties>
+
+      <!--Characteristic Presentation Format-->
+      <descriptor const="false" discoverable="true" id="characteristic_presentation_format" name="Characteristic Presentation Format" sourceId="org.bluetooth.descriptor.gatt.characteristic_presentation_format" uuid="2904">
+        <informativeText>Abstract: 
+        The Characteristic Presentation Format descriptor defines the format of the Characteristic Value.            
+		
+Summary: 
+        One or more Characteristic Presentation Format descriptors may be present. If multiple of these descriptors are present, then a Aggregate Formate descriptor is present.
+        This descriptor is read only and does not require authentication or authorization to read.
+        This descriptor is composed of five parts: format, exponent, unit, name space and description.
+        The Format field determines how a single value contained in the Characteristic Value is formatted.
+        The Exponent field is used with interger data types to determine how the Characteristic Value is furhter formatted.
+        The actual value = Characteristic Value * 10^Exponent.            
+		
+Examples: 
+            When encoding an IPv4 address, the uint32 Format type is used.
+		 
+            When encoding an IPv6 address, the uint128 Format type is used.
+		 
+            When encoding a Bluetooth address (BD_ADDR), the uint48 Format type is used.
+		 
+            For a Characteristic Value of 23 and an Exponent of 2, the actual value is 2300
+		 
+            For a Characteristi Value of 3892 and an Exponent of -3, the actual value is 3.892
+		</informativeText>
+        <properties>
+          <read authenticated="false" bonded="false" encrypted="false"/>
+        </properties>
+        <value length="7" type="hex" variable_length="false"/>
+      </descriptor>
+    </characteristic>
+  </service>
+
+  <!--Automation IO-->
+  <service advertise="false" id="automation_io" name="Automation IO" requirement="mandatory" sourceId="org.bluetooth.service.automation_io" type="primary" uuid="1815">
+    <informativeText>Abstract: The Automation IO service is used to expose the analog inputs/outputs and digital input/outputs of a generic IO module (IOM).</informativeText>
+
+    <!--Analog-->
+    <characteristic const="false" id="analog" name="Analog" sourceId="org.bluetooth.characteristic.analog" uuid="2A58">
+      <informativeText>
+Summary: The Analog characteristic is used to read or write the value of one of the IO Module's analog signals.</informativeText>
+      <value length="2" type="hex" variable_length="false">00</value>
+      <properties>
+        <notify authenticated="false" bonded="false" encrypted="false"/>
+      </properties>
+
+      <!--Characteristic Presentation Format-->
+      <descriptor const="false" discoverable="true" name="Characteristic Presentation Format" sourceId="org.bluetooth.descriptor.gatt.characteristic_presentation_format" uuid="2904">
+        <informativeText>Abstract: 
+        The Characteristic Presentation Format descriptor defines the format of the Characteristic Value.            
+		
+Summary: 
+        One or more Characteristic Presentation Format descriptors may be present. If multiple of these descriptors are present, then a Aggregate Formate descriptor is present.
+        This descriptor is read only and does not require authentication or authorization to read.
+        This descriptor is composed of five parts: format, exponent, unit, name space and description.
+        The Format field determines how a single value contained in the Characteristic Value is formatted.
+        The Exponent field is used with interger data types to determine how the Characteristic Value is furhter formatted.
+        The actual value = Characteristic Value * 10^Exponent.            
+		
+Examples: 
+            When encoding an IPv4 address, the uint32 Format type is used.
+		 
+            When encoding an IPv6 address, the uint128 Format type is used.
+		 
+            When encoding a Bluetooth address (BD_ADDR), the uint48 Format type is used.
+		 
+            For a Characteristic Value of 23 and an Exponent of 2, the actual value is 2300
+		 
+            For a Characteristi Value of 3892 and an Exponent of -3, the actual value is 3.892
+		</informativeText>
+        <properties>
+          <read authenticated="false" bonded="false" encrypted="false"/>
+        </properties>
+        <value length="7" type="hex" variable_length="false"/>
+      </descriptor>
+
+      <!--Characteristic User Description-->
+      <descriptor const="false" discoverable="true" id="characteristic_user_description" name="Characteristic User Description" sourceId="org.bluetooth.descriptor.gatt.characteristic_user_description" uuid="2901">
+        <informativeText>Abstract: 
+        The Characteristic User Description descriptor provides a textual user description for a characteristic value.
+		
+Summary: 
+        If the Writable Auxiliary bit of the Characteristics Properties is set then this descriptor is written.
+        Only one User Description descriptor exists in a characteristic definition.            
+		</informativeText>
+        <properties>
+          <read authenticated="false" bonded="false" encrypted="false"/>
+        </properties>
+        <value length="1" type="utf-8" variable_length="false"/>
+      </descriptor>
+
+      <!--Characteristic Extended Properties-->
+      <descriptor const="false" discoverable="true" id="characteristic_extended_properties" name="Characteristic Extended Properties" sourceId="org.bluetooth.descriptor.gatt.characteristic_extended_properties" uuid="2900">
+        <informativeText>Abstract: 
+        The Characteristic Extended Properties descriptor defines additional Characteristic Properties.            
+		
+Summary: 
+        If the Characteristic Extended Properties bit of the Characteristic Properties is set, then this descriptor exists.
+        The Characteristic Extended Properties descriptor is a bit field defining Reliable Write and Writeable Auxiliaries are enabled for the Characteristic.
+        This descriptor is readable without authentication and authorization being required.            
+		</informativeText>
+        <properties>
+          <read authenticated="false" bonded="false" encrypted="false"/>
+        </properties>
+        <value length="2" type="hex" variable_length="false"/>
+      </descriptor>
+
+      <!--Value Trigger Setting-->
+      <descriptor const="false" discoverable="true" id="value_trigger_setting" name="Value Trigger Setting" sourceId="org.bluetooth.descriptor.value_trigger_setting" uuid="290A">
+        <informativeText>Abstract: The value of the descriptor has two parts. Part one is a condition field and occupies one octet, and part two is the comparison value (trigger point) that the characteristic value is checked against.</informativeText>
+        <properties>
+          <read authenticated="false" bonded="false" encrypted="false"/>
+          <write authenticated="false" bonded="false" encrypted="false"/>
+        </properties>
+        <value length="8" type="hex" variable_length="false"/>
+      </descriptor>
+
+      <!--Time Trigger Setting-->
+      <descriptor const="false" discoverable="true" id="time_trigger_setting" name="Time Trigger Setting" sourceId="org.bluetooth.descriptor.time_trigger_setting" uuid="290E">
+        <informativeText>Abstract: The value of the descriptor has two parts. Part one is a condition field and occupies one octet, and part two is the comparison value (trigger point) that the characteristic value is checked against.</informativeText>
+        <properties>
+          <read authenticated="false" bonded="false" encrypted="false"/>
+          <write authenticated="false" bonded="false" encrypted="false"/>
+        </properties>
+        <value length="7" type="hex" variable_length="false"/>
+      </descriptor>
+
+      <!--Valid Range-->
+      <descriptor const="false" discoverable="true" id="valid_range" name="Valid Range" sourceId="org.bluetooth.descriptor.valid_range" uuid="2906">
+        <informativeText>Abstract: 
+    The Characteristic Valid Range descriptor is used for defining the range of a characteristics. Two mandatory fields are contained (upper and lower bounds) which define the range.            
+		
+Summary: 
+    If the Characteristic Value to which this descriptor is attached has a fixed exponent, then the values in this descriptor have the same exponent.
+    The first value in the Valid Range descriptor represents the lower inclusive value of the range. The second value represents the higher inclusive value of the range.
+    The data type and units for lower inclusive value and the upper inclusive value are identical to the data type and units of the characteristic for which it is used.            
+		
+Examples: 
+When used with the Measurement Interval characteristic, the Valid Range descriptor is formatted using a uint16. If the valid range has a Minimum Value of 10 minutes (600 seconds) and a Maximum Value of 2 hours (7200 seconds) the value of the Valid Range descriptor would be expressed as: 0x58 0x02 0x20 0x1C
+             
+      A characteristic that is formatted using a nibble with a fixed decimal-exponent that has a Valid Range of 2 to 13 has a Valid Range descriptor defined as: 0x02 0x0D
+             
+      A characteristic value that is formatted using an sint16 with a fixed exponent of -1 that has a Valid Range of -40 to +85 is expressed as: 0x70 0xFE 0x52 0x03
+            </informativeText>
+        <properties>
+          <read authenticated="false" bonded="false" encrypted="false"/>
+        </properties>
+        <value length="1" type="hex" variable_length="false">00</value>
+      </descriptor>
+    </characteristic>
+  </service>
+</gatt>

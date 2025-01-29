@@ -1,0 +1,6 @@
+11:26:51 **** Incremental Build of configuration GNU ARM v12.2.1 - Default for project Tensosense_iadc ****
+make -j7 all 
+make: Nothing to be done for `all'.
+
+11:26:51 Build Finished. 0 errors, 0 warnings. (took 181ms)
+

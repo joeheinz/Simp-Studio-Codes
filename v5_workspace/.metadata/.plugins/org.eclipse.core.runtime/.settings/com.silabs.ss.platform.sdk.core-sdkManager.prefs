@@ -1,0 +1,7 @@
+defaultSelection=com.silabs.sdk.stack.super\:4.4.2._1475498756\u0000
+disabledIDs=\u0000
+eclipse.preferences.version=1
+enabledIDs=com.silabs.sdk.stack.sisdk\:2024.12.0._1701250176\u0000com.silabs.sdk.demo_sdk\:2024.12.0._1417476955\u0000com.silabs.stack.external.stackless\:1.0.0._1234321\u0000com.silabs.sdk.none\:0.0.0\u0000com.silabs.sdk.stack.super\:4.4.2._1475498756\u0000com.silabs.sdk.stack.sisdk\:2024.12.0._1701250178\u0000com.silabs.sdk.stack.super\:4.4.2._1245126387\u0000com.silabs.sdk.stack.sisdk\:2024.12.0._1750159695\u0000com.silabs.sdk.8051\:4.3.1.0_847865624\u0000com.silabs.sdk.stack.sisdk\:2024.12.0._1701250179\u0000
+knownPackageIds=
+lastRefreshDate=1714079730243
+manualDescriptors=<?xml version\="1.0" encoding\="ASCII"?>\n<model\:MDescriptors xmlns\:model\="http\://www.silabs.com/ss/Studio.ecore"/>\n

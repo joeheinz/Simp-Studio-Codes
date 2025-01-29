@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="ASCII"?>
+<model:MDescriptors xmlns:model="http://www.silabs.com/ss/Studio.ecore">
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="Amazon" description="&lt;pre>Amazon&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/amazon/app_amazon.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="3.3.0.0_1622084849"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="Amazon\ 202012.00"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/amazon/amazon_platform_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/amazon/amazon_bluetooth_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/amazon/amazon_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/amazon/amazon_production_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/amazon/amazon_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.amazon"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="Micrium OS Kernel" description="&lt;pre>SL-MOS-KRNX-000000-P-P1&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/platform/micrium_os/micrium-krnx.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="5.17.0._1975469636"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value="mcu.arm.efm32.pg2[1-9].* mcu.arm.efr32.[pbfmsz]g2[1-9].*"/>
+    <properties key="sdk.subLabel" value="Micrium\ OS\ Kernel\ 5.17.00"/>
+    <properties key="installedUnit" value="krnx"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/platform/micrium_os/micrium-krnx-docs.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.micrium"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="Platform" description="&lt;pre>Platform&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/app_common.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="5.1.0.0_925494865"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="Platform\ 5.1.0.0"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/platform_deprecated_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/platform_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/platform_unknown_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/platform_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/platform_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/builtin_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/platform_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/platform_internal_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/platform_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/platform_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/platform_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/common/platform_deprecated_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.platform"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="Gecko Bootloader" description="&lt;pre>Gecko Bootloader for EFM32 and EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/platform/bootloader/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="2.1.0._-1630854716"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="protocol.protocolKey" value="BOOTLOADER"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/platform/bootloader/bootloader_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/platform/bootloader/bootloader_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/platform/bootloader/bootloader_production_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/platform/bootloader/bootloader_production_demos.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/platform/bootloader/documentation/gecko_bootloader_documentation.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.bootloader"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="OpenThread SDK" description="&lt;pre>OpenThread stack support for EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/openthread/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="2.6.0.0_-1744084326"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32m[gr]2.* .*mgm2.*"/>
+    <properties key="sdk.subLabel" value="OpenThread\ 2.6.0.0\ (GitHub-7f6723ffb)"/>
+    <properties key="protocol.protocolKey" value="openthread"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/openthread/openthread_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/openthread/openthread_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/openthread/openthread_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/openthread/openthread_production_templates.xml"/>
+    <properties key="sdk.useGCCUserObjs" value="openthread"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/openthread/documentation/slOpenThread_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/openthread/openthread_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/openthread/openthread_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/openthread/openthread_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/openthread/openthread_investigation_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.openthread"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="USB SDK" description="&lt;pre>USB stack support for EFM32 and EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/usb/usb.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="1.4.0.0_-746880720"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="USB\ 1.4.0.0"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.usb"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="EmberZNet SDK" description="&lt;pre>Silicon Labs EmberZNet SDK&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="8.1.0.0_-452063324"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*host.* .*efr32mg2[12467].* .*mgm(21|22|24).* .*rm21.*"/>
+    <properties key="sdk.subLabel" value="EmberZNet\ 8.1.0.0"/>
+    <properties key="protocol.protocolKey" value="znet"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/smart-energy_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/zigbee-dmp-gp-proxy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/zigbee_development_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/zigbee_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/sleepy-to-sleepy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/zigbee_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/zigbee_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/zigbee_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/wwah_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/smart-energy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/pro-compliance_internal_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/documentation/slEmberZNet_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/zigbee_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/zigbee_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/zigbee_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/zigbee/zigbee_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.znet"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="Z-Wave SDK" description="&lt;pre>Silicon Labs Z-Wave SDK for the EFR32 family&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/zwave.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="7.23.0.0_1869534217"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32zg23.* .*efr32zg28.* .*zgm23.*"/>
+    <properties key="sdk.subLabel" value="Z-Wave\ SDK\ 7.23.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/DevTools/cc_configurator"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/z-wave_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/z-wave_alpha_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/z-wave_beta_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/z-wave_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/z-wave_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/z-wave_development_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/docs_public/docs.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/Apps/bin/demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/z-wave_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/z-wave_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/z-wave_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/z-wave_test_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/z-wave_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/protocol/z-wave/z-wave_development_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.zwave"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="Bluetooth SDK" description="&lt;pre>Bluetooth Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="9.0.0.0_1285212359"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bm]g(2[12467]).* .*efr32[fz]g28.* .*bgm(21|22|24|26|27).* .*mgm(21|22|24|26|27).*"/>
+    <properties key="sdk.subLabel" value="Bluetooth\ 9.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/../../protocol/bluetooth/bin/gatt"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/bluetooth_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/bluetooth_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/bluetooth_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/bluetooth_deprecated_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/bluetooth_internal_templates.xml"/>
+    <properties key="bleSDK.bgbuildToolchain" value="true"/>
+    <properties key="btGattConfiguratorGroup.btConfGattItemDatabases" value="sig silabs custom"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/documentation/slBluetooth_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="bleSDK.bgbuildLocation" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/../../protocol/bluetooth/bin"/>
+    <properties key="btGattConfiguratorGroup.btconfGattItemSourcePath" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/gatt_xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/bluetooth_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/bluetooth_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/bluetooth_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/bluetooth_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/bluetooth/bluetooth_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.ble"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="Bluetooth Mesh SDK" description="&lt;pre>Bluetooth Mesh Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="8.0.0.0_2006781263"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32bg2(1|2.*f512|4).* .*efr32mg2[1247].* .*mgm(2[124]).* .*bgm(21|22.*hna|24).*"/>
+    <properties key="sdk.subLabel" value="Bluetooth\ Mesh\ 8.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/../../protocol/bluetooth/bin/gatt /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/script/generator"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_alpha_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_beta_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_srtest_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_long_packets_test_internal_templates.xml"/>
+    <properties key="bleSDK.bgbuildToolchain" value="true"/>
+    <properties key="btGattConfiguratorGroup.btConfGattItemDatabases" value="mesh"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/documentation/slBtMesh_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="bleSDK.bgbuildLocation" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/../../protocol/bluetooth/bin"/>
+    <properties key="btGattConfiguratorGroup.btconfGattItemSourcePath" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/gatt_xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_test_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/btmesh/btmesh_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.btMesh"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="Connect SDK" description="&lt;pre>Connect Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="4.0.0.0_536348427"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bfmz]g2.* .*mgm2.* .*rm21.* .*fgm230s.* .*zgm2.* .*bgm220sc2[2-3]hna.*"/>
+    <properties key="sdk.subLabel" value="Connect\ 4.0.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/../../platform/radio/efr32_multiphy_configurator"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/connect_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/connect_demos_only_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/connect_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/connect_evaluation_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/documentation/slconnect_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/connect_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/connect_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/connect_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/connect_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/connect_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/connect/connect_demos_only_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.connect"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="RAIL SDK" description="&lt;pre>RAIL Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="2.18.0.0_-1115890165"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bfmz]g2.* .*mgm2.* .*rm21.* .*fgm230s.* .*zgm2.* .*bgm220sc2[2-3]hna.*"/>
+    <properties key="sdk.subLabel" value="RAIL\ 2.18.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/../../platform/radio/efr32_multiphy_configurator"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/rail_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/rail_demos_only_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/rail_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/rail_evaluation_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/documentation/slrail_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/rail_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/rail_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/rail_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/rail_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/rail_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/rail/rail_demos_only_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.rail"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176" label="Wi-SUN" description="&lt;pre>Silicon Labs Wi-SUN SDK&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250176"/>
+    <properties key="core.version" value="2.3.0.0_-1603382309"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32fg25.* .*efr32fg28.* .*efr32zg28.*"/>
+    <properties key="sdk.subLabel" value="Wi-SUN\ 2.3.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/../../platform/radio/efr32_multiphy_configurator /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/component/wisun_config/scripts /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/component/wisun_config/scripts/ddp"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/wisun_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/wisun_br_demos_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/wisun_evaluation_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/documentation/slWi-SUN_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/wisun_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/wisun_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/wisun_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/wisun_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/wisun_br_demos_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_2/app/wisun/wisun_evaluation_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.wisun"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="Amazon" description="&lt;pre>Amazon&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/amazon/app_amazon.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="3.3.0.0_-621825009"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="Amazon\ 202012.00"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/amazon/amazon_platform_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/amazon/amazon_bluetooth_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/amazon/amazon_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/amazon/amazon_production_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/amazon/amazon_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.amazon"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="Micrium OS Kernel" description="&lt;pre>SL-MOS-KRNX-000000-P-P1&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/platform/micrium_os/micrium-krnx.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="5.17.0._-1426207418"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value="mcu.arm.efm32.pg2[1-9].* mcu.arm.efr32.[pbfmsz]g2[1-9].*"/>
+    <properties key="sdk.subLabel" value="Micrium\ OS\ Kernel\ 5.17.00"/>
+    <properties key="installedUnit" value="krnx"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/platform/micrium_os/micrium-krnx-docs.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.micrium"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="Platform" description="&lt;pre>Platform&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/app_common.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="5.1.0.0_-1318578577"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="Platform\ 5.1.0.0"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/platform_deprecated_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/platform_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/platform_unknown_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/platform_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/platform_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/builtin_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/platform_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/platform_internal_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/platform_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/platform_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/platform_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/common/platform_deprecated_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.platform"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="Gecko Bootloader" description="&lt;pre>Gecko Bootloader for EFM32 and EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/platform/bootloader/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="2.1.0._-2025148286"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="protocol.protocolKey" value="BOOTLOADER"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/platform/bootloader/bootloader_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/platform/bootloader/bootloader_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/platform/bootloader/bootloader_production_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/platform/bootloader/bootloader_production_demos.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/platform/bootloader/documentation/gecko_bootloader_documentation.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.bootloader"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="OpenThread SDK" description="&lt;pre>OpenThread stack support for EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/openthread/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="2.6.0.0_-2138377640"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32m[gr]2.* .*mgm2.*"/>
+    <properties key="sdk.subLabel" value="OpenThread\ 2.6.0.0\ (GitHub-7f6723ffb)"/>
+    <properties key="protocol.protocolKey" value="openthread"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/openthread/openthread_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/openthread/openthread_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/openthread/openthread_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/openthread/openthread_production_templates.xml"/>
+    <properties key="sdk.useGCCUserObjs" value="openthread"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/openthread/documentation/slOpenThread_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/openthread/openthread_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/openthread/openthread_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/openthread/openthread_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/openthread/openthread_investigation_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.openthread"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="USB SDK" description="&lt;pre>USB stack support for EFM32 and EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/usb/usb.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="1.4.0.0_639354930"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="USB\ 1.4.0.0"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.usb"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="EmberZNet SDK" description="&lt;pre>Silicon Labs EmberZNet SDK&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="8.1.0.0_-177238942"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*host.* .*efr32mg2[12467].* .*mgm(21|22|24).* .*rm21.*"/>
+    <properties key="sdk.subLabel" value="EmberZNet\ 8.1.0.0"/>
+    <properties key="protocol.protocolKey" value="znet"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/smart-energy_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/zigbee-dmp-gp-proxy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/zigbee_development_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/zigbee_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/sleepy-to-sleepy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/zigbee_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/zigbee_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/zigbee_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/wwah_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/smart-energy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/pro-compliance_internal_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/documentation/slEmberZNet_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/zigbee_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/zigbee_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/zigbee_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/zigbee/zigbee_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.znet"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="Z-Wave SDK" description="&lt;pre>Silicon Labs Z-Wave SDK for the EFR32 family&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/zwave.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="7.23.0.0_-374776761"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32zg23.* .*efr32zg28.* .*zgm23.*"/>
+    <properties key="sdk.subLabel" value="Z-Wave\ SDK\ 7.23.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/DevTools/cc_configurator"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/z-wave_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/z-wave_alpha_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/z-wave_beta_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/z-wave_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/z-wave_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/z-wave_development_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/docs_public/docs.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/Apps/bin/demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/z-wave_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/z-wave_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/z-wave_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/z-wave_test_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/z-wave_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/protocol/z-wave/z-wave_development_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.zwave"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="Bluetooth SDK" description="&lt;pre>Bluetooth Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="9.0.0.0_1307812101"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bm]g(2[12467]).* .*efr32[fz]g28.* .*bgm(21|22|24|26|27).* .*mgm(21|22|24|26|27).*"/>
+    <properties key="sdk.subLabel" value="Bluetooth\ 9.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/../../protocol/bluetooth/bin/gatt"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/bluetooth_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/bluetooth_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/bluetooth_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/bluetooth_deprecated_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/bluetooth_internal_templates.xml"/>
+    <properties key="bleSDK.bgbuildToolchain" value="true"/>
+    <properties key="btGattConfiguratorGroup.btConfGattItemDatabases" value="sig silabs custom"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/documentation/slBluetooth_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="bleSDK.bgbuildLocation" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/../../protocol/bluetooth/bin"/>
+    <properties key="btGattConfiguratorGroup.btconfGattItemSourcePath" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/gatt_xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/bluetooth_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/bluetooth_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/bluetooth_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/bluetooth_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/bluetooth/bluetooth_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.ble"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="Bluetooth Mesh SDK" description="&lt;pre>Bluetooth Mesh Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="8.0.0.0_2029774221"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32bg2(1|2.*f512|4).* .*efr32mg2[1247].* .*mgm(2[124]).* .*bgm(21|22.*hna|24).*"/>
+    <properties key="sdk.subLabel" value="Bluetooth\ Mesh\ 8.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/../../protocol/bluetooth/bin/gatt /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/script/generator"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_alpha_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_beta_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_srtest_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_long_packets_test_internal_templates.xml"/>
+    <properties key="bleSDK.bgbuildToolchain" value="true"/>
+    <properties key="btGattConfiguratorGroup.btConfGattItemDatabases" value="mesh"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/documentation/slBtMesh_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="bleSDK.bgbuildLocation" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/../../protocol/bluetooth/bin"/>
+    <properties key="btGattConfiguratorGroup.btconfGattItemSourcePath" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/gatt_xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_test_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/btmesh/btmesh_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.btMesh"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="Connect SDK" description="&lt;pre>Connect Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="4.0.0.0_27145417"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bfmz]g2.* .*mgm2.* .*rm21.* .*fgm230s.* .*zgm2.* .*bgm220sc2[2-3]hna.*"/>
+    <properties key="sdk.subLabel" value="Connect\ 4.0.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/../../platform/radio/efr32_multiphy_configurator"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/connect_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/connect_demos_only_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/connect_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/connect_evaluation_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/documentation/slconnect_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/connect_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/connect_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/connect_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/connect_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/connect_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/connect/connect_demos_only_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.connect"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="RAIL SDK" description="&lt;pre>RAIL Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="2.18.0.0_-975409139"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bfmz]g2.* .*mgm2.* .*rm21.* .*fgm230s.* .*zgm2.* .*bgm220sc2[2-3]hna.*"/>
+    <properties key="sdk.subLabel" value="RAIL\ 2.18.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/../../platform/radio/efr32_multiphy_configurator"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/rail_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/rail_demos_only_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/rail_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/rail_evaluation_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/documentation/slrail_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/rail_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/rail_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/rail_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/rail_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/rail_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/rail/rail_demos_only_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.rail"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178" label="Wi-SUN" description="&lt;pre>Silicon Labs Wi-SUN SDK&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250178"/>
+    <properties key="core.version" value="2.3.0.0_-1539442407"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32fg25.* .*efr32fg28.* .*efr32zg28.*"/>
+    <properties key="sdk.subLabel" value="Wi-SUN\ 2.3.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/../../platform/radio/efr32_multiphy_configurator /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/component/wisun_config/scripts /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/component/wisun_config/scripts/ddp"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/wisun_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/wisun_br_demos_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/wisun_evaluation_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/documentation/slWi-SUN_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/wisun_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/wisun_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/wisun_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/wisun_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/wisun_br_demos_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_4/app/wisun/wisun_evaluation_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.wisun"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="Amazon" description="&lt;pre>Amazon&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/amazon/app_amazon.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="3.3.0.0_-1647359762"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="Amazon\ 202012.00"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/amazon/amazon_platform_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/amazon/amazon_bluetooth_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/amazon/amazon_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/amazon/amazon_production_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/amazon/amazon_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.amazon"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="Micrium OS Kernel" description="&lt;pre>SL-MOS-KRNX-000000-P-P1&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/platform/micrium_os/micrium-krnx.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="5.17.0._274498503"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value="mcu.arm.efm32.pg2[1-9].* mcu.arm.efr32.[pbfmsz]g2[1-9].*"/>
+    <properties key="sdk.subLabel" value="Micrium\ OS\ Kernel\ 5.17.00"/>
+    <properties key="installedUnit" value="krnx"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/platform/micrium_os/micrium-krnx-docs.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.micrium"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="Platform" description="&lt;pre>Platform&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/app_common.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="5.1.0.0_1950886478"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="Platform\ 5.1.0.0"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/platform_deprecated_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/platform_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/platform_unknown_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/platform_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/platform_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/builtin_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/platform_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/platform_internal_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/platform_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/platform_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/platform_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/common/platform_deprecated_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.platform"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="Gecko Bootloader" description="&lt;pre>Gecko Bootloader for EFM32 and EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/platform/bootloader/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="2.1.0._319551781"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="protocol.protocolKey" value="BOOTLOADER"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/platform/bootloader/bootloader_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/platform/bootloader/bootloader_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/platform/bootloader/bootloader_production_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/platform/bootloader/bootloader_production_demos.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/platform/bootloader/documentation/gecko_bootloader_documentation.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.bootloader"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="OpenThread SDK" description="&lt;pre>OpenThread stack support for EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/openthread/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="2.6.0.0_206191355"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32m[gr]2.* .*mgm2.*"/>
+    <properties key="sdk.subLabel" value="OpenThread\ 2.6.0.0\ (GitHub-7f6723ffb)"/>
+    <properties key="protocol.protocolKey" value="openthread"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/openthread/openthread_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/openthread/openthread_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/openthread/openthread_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/openthread/openthread_production_templates.xml"/>
+    <properties key="sdk.useGCCUserObjs" value="openthread"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/openthread/documentation/slOpenThread_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/openthread/openthread_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/openthread/openthread_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/openthread/openthread_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/openthread/openthread_investigation_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.openthread"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="USB SDK" description="&lt;pre>USB stack support for EFM32 and EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/usb/usb.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="1.4.0.0_-55841613"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="USB\ 1.4.0.0"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.usb"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="EmberZNet SDK" description="&lt;pre>Silicon Labs EmberZNet SDK&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="8.1.0.0_1834995589"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*host.* .*efr32mg2[12467].* .*mgm(21|22|24).* .*rm21.*"/>
+    <properties key="sdk.subLabel" value="EmberZNet\ 8.1.0.0"/>
+    <properties key="protocol.protocolKey" value="znet"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/smart-energy_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/zigbee-dmp-gp-proxy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/zigbee_development_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/zigbee_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/sleepy-to-sleepy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/zigbee_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/zigbee_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/zigbee_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/wwah_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/smart-energy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/pro-compliance_internal_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/documentation/slEmberZNet_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/zigbee_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/zigbee_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/zigbee_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/zigbee/zigbee_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.znet"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="Z-Wave SDK" description="&lt;pre>Silicon Labs Z-Wave SDK for the EFR32 family&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/zwave.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="7.23.0.0_-1400303578"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32zg23.* .*efr32zg28.* .*zgm23.*"/>
+    <properties key="sdk.subLabel" value="Z-Wave\ SDK\ 7.23.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/DevTools/cc_configurator"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/z-wave_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/z-wave_alpha_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/z-wave_beta_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/z-wave_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/z-wave_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/z-wave_development_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/docs_public/docs.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/Apps/bin/demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/z-wave_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/z-wave_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/z-wave_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/z-wave_test_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/z-wave_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/protocol/z-wave/z-wave_development_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.zwave"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="Bluetooth SDK" description="&lt;pre>Bluetooth Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="9.0.0.0_1294343524"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bm]g(2[12467]).* .*efr32[fz]g28.* .*bgm(21|22|24|26|27).* .*mgm(21|22|24|26|27).*"/>
+    <properties key="sdk.subLabel" value="Bluetooth\ 9.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/../../protocol/bluetooth/bin/gatt"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/bluetooth_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/bluetooth_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/bluetooth_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/bluetooth_deprecated_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/bluetooth_internal_templates.xml"/>
+    <properties key="bleSDK.bgbuildToolchain" value="true"/>
+    <properties key="btGattConfiguratorGroup.btConfGattItemDatabases" value="sig silabs custom"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/documentation/slBluetooth_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="bleSDK.bgbuildLocation" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/../../protocol/bluetooth/bin"/>
+    <properties key="btGattConfiguratorGroup.btconfGattItemSourcePath" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/gatt_xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/bluetooth_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/bluetooth_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/bluetooth_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/bluetooth_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/bluetooth/bluetooth_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.ble"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="Bluetooth Mesh SDK" description="&lt;pre>Bluetooth Mesh Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="8.0.0.0_2016301548"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32bg2(1|2.*f512|4).* .*efr32mg2[1247].* .*mgm(2[124]).* .*bgm(21|22.*hna|24).*"/>
+    <properties key="sdk.subLabel" value="Bluetooth\ Mesh\ 8.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/../../protocol/bluetooth/bin/gatt /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/script/generator"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_alpha_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_beta_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_srtest_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_long_packets_test_internal_templates.xml"/>
+    <properties key="bleSDK.bgbuildToolchain" value="true"/>
+    <properties key="btGattConfiguratorGroup.btConfGattItemDatabases" value="mesh"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/documentation/slBtMesh_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="bleSDK.bgbuildLocation" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/../../protocol/bluetooth/bin"/>
+    <properties key="btGattConfiguratorGroup.btconfGattItemSourcePath" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/gatt_xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_test_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/btmesh/btmesh_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.btMesh"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="Connect SDK" description="&lt;pre>Connect Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="4.0.0.0_279514216"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bfmz]g2.* .*mgm2.* .*rm21.* .*fgm230s.* .*zgm2.* .*bgm220sc2[2-3]hna.*"/>
+    <properties key="sdk.subLabel" value="Connect\ 4.0.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/../../platform/radio/efr32_multiphy_configurator"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/connect_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/connect_demos_only_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/connect_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/connect_evaluation_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/documentation/slconnect_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/connect_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/connect_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/connect_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/connect_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/connect_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/connect/connect_demos_only_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.connect"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="RAIL SDK" description="&lt;pre>RAIL Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="2.18.0.0_1099730186"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bfmz]g2.* .*mgm2.* .*rm21.* .*fgm230s.* .*zgm2.* .*bgm220sc2[2-3]hna.*"/>
+    <properties key="sdk.subLabel" value="RAIL\ 2.18.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/../../platform/radio/efr32_multiphy_configurator"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/rail_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/rail_demos_only_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/rail_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/rail_evaluation_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/documentation/slrail_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/rail_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/rail_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/rail_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/rail_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/rail_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/rail/rail_demos_only_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.rail"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179" label="Wi-SUN" description="&lt;pre>Silicon Labs Wi-SUN SDK&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1701250179"/>
+    <properties key="core.version" value="2.3.0.0_-1572401928"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32fg25.* .*efr32fg28.* .*efr32zg28.*"/>
+    <properties key="sdk.subLabel" value="Wi-SUN\ 2.3.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/../../platform/radio/efr32_multiphy_configurator /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/component/wisun_config/scripts /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/component/wisun_config/scripts/ddp"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/wisun_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/wisun_br_demos_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/wisun_evaluation_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/documentation/slWi-SUN_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/wisun_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/wisun_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/wisun_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/wisun_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/wisun_br_demos_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk_3/app/wisun/wisun_evaluation_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.wisun"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="Amazon" description="&lt;pre>Amazon&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/amazon/app_amazon.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="3.3.0.0_-735033694"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="Amazon\ 202012.00"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/amazon/amazon_platform_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/amazon/amazon_bluetooth_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/amazon/amazon_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/amazon/amazon_production_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/amazon/amazon_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.amazon"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="Micrium OS Kernel" description="&lt;pre>SL-MOS-KRNX-000000-P-P1&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/platform/micrium_os/micrium-krnx.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="5.17.0._1940151731"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value="mcu.arm.efm32.pg2[1-9].* mcu.arm.efr32.[pbfmsz]g2[1-9].*"/>
+    <properties key="sdk.subLabel" value="Micrium\ OS\ Kernel\ 5.17.00"/>
+    <properties key="installedUnit" value="krnx"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/platform/micrium_os/micrium-krnx-docs.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.micrium"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="Platform" description="&lt;pre>Platform&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/app_common.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="5.1.0.0_-1433591806"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="Platform\ 5.1.0.0"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/platform_deprecated_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/platform_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/platform_unknown_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/platform_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/platform_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/builtin_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/platform_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/platform_internal_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/platform_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/platform_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/platform_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/common/platform_deprecated_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.platform"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="Gecko Bootloader" description="&lt;pre>Gecko Bootloader for EFM32 and EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/platform/bootloader/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="2.1.0._-874163975"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="protocol.protocolKey" value="BOOTLOADER"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/platform/bootloader/bootloader_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/platform/bootloader/bootloader_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/platform/bootloader/bootloader_production_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/platform/bootloader/bootloader_production_demos.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/platform/bootloader/documentation/gecko_bootloader_documentation.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.bootloader"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="OpenThread SDK" description="&lt;pre>OpenThread stack support for EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/openthread/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="2.6.0.0_-987390577"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32m[gr]2.* .*mgm2.*"/>
+    <properties key="sdk.subLabel" value="OpenThread\ 2.6.0.0\ (GitHub-7f6723ffb)"/>
+    <properties key="protocol.protocolKey" value="openthread"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/openthread/openthread_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/openthread/openthread_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/openthread/openthread_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/openthread/openthread_production_templates.xml"/>
+    <properties key="sdk.useGCCUserObjs" value="openthread"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/openthread/documentation/slOpenThread_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/openthread/openthread_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/openthread/openthread_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/openthread/openthread_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/openthread/openthread_investigation_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.openthread"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="USB SDK" description="&lt;pre>USB stack support for EFM32 and EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/usb/usb.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="1.4.0.0_-1033611393"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="USB\ 1.4.0.0"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.usb"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="EmberZNet SDK" description="&lt;pre>Silicon Labs EmberZNet SDK&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="8.1.0.0_-1813431975"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*host.* .*efr32mg2[12467].* .*mgm(21|22|24).* .*rm21.*"/>
+    <properties key="sdk.subLabel" value="EmberZNet\ 8.1.0.0"/>
+    <properties key="protocol.protocolKey" value="znet"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/smart-energy_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/zigbee-dmp-gp-proxy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/zigbee_development_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/zigbee_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/sleepy-to-sleepy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/zigbee_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/zigbee_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/zigbee_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/wwah_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/smart-energy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/pro-compliance_internal_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/documentation/slEmberZNet_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/zigbee_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/zigbee_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/zigbee_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/zigbee/zigbee_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.znet"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="Z-Wave SDK" description="&lt;pre>Silicon Labs Z-Wave SDK for the EFR32 family&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/zwave.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="7.23.0.0_-487428358"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32zg23.* .*efr32zg28.* .*zgm23.*"/>
+    <properties key="sdk.subLabel" value="Z-Wave\ SDK\ 7.23.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/DevTools/cc_configurator"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/z-wave_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/z-wave_alpha_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/z-wave_beta_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/z-wave_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/z-wave_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/z-wave_development_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/docs_public/docs.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/Apps/bin/demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/z-wave_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/z-wave_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/z-wave_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/z-wave_test_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/z-wave_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/protocol/z-wave/z-wave_development_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.zwave"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="Bluetooth SDK" description="&lt;pre>Bluetooth Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="9.0.0.0_1060269368"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bm]g(2[12467]).* .*efr32[fz]g28.* .*bgm(21|22|24|26|27).* .*mgm(21|22|24|26|27).*"/>
+    <properties key="sdk.subLabel" value="Bluetooth\ 9.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/../../protocol/bluetooth/bin/gatt"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/bluetooth_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/bluetooth_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/bluetooth_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/bluetooth_deprecated_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/bluetooth_internal_templates.xml"/>
+    <properties key="bleSDK.bgbuildToolchain" value="true"/>
+    <properties key="btGattConfiguratorGroup.btConfGattItemDatabases" value="sig silabs custom"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/documentation/slBluetooth_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="bleSDK.bgbuildLocation" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/../../protocol/bluetooth/bin"/>
+    <properties key="btGattConfiguratorGroup.btconfGattItemSourcePath" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/gatt_xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/bluetooth_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/bluetooth_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/bluetooth_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/bluetooth_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/bluetooth/bluetooth_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.ble"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="Bluetooth Mesh SDK" description="&lt;pre>Bluetooth Mesh Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="8.0.0.0_1782227360"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32bg2(1|2.*f512|4).* .*efr32mg2[1247].* .*mgm(2[124]).* .*bgm(21|22.*hna|24).*"/>
+    <properties key="sdk.subLabel" value="Bluetooth\ Mesh\ 8.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/../../protocol/bluetooth/bin/gatt /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/script/generator"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_alpha_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_beta_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_srtest_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_long_packets_test_internal_templates.xml"/>
+    <properties key="bleSDK.bgbuildToolchain" value="true"/>
+    <properties key="btGattConfiguratorGroup.btConfGattItemDatabases" value="mesh"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/documentation/slBtMesh_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="bleSDK.bgbuildLocation" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/../../protocol/bluetooth/bin"/>
+    <properties key="btGattConfiguratorGroup.btconfGattItemSourcePath" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/gatt_xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_test_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/btmesh/btmesh_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.btMesh"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="Connect SDK" description="&lt;pre>Connect Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="4.0.0.0_-996478148"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bfmz]g2.* .*mgm2.* .*rm21.* .*fgm230s.* .*zgm2.* .*bgm220sc2[2-3]hna.*"/>
+    <properties key="sdk.subLabel" value="Connect\ 4.0.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/../../platform/radio/efr32_multiphy_configurator"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/connect_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/connect_demos_only_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/connect_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/connect_evaluation_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/documentation/slconnect_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/connect_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/connect_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/connect_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/connect_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/connect_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/connect/connect_demos_only_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.connect"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="RAIL SDK" description="&lt;pre>RAIL Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="2.18.0.0_164806134"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bfmz]g2.* .*mgm2.* .*rm21.* .*fgm230s.* .*zgm2.* .*bgm220sc2[2-3]hna.*"/>
+    <properties key="sdk.subLabel" value="RAIL\ 2.18.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/../../platform/radio/efr32_multiphy_configurator"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/rail_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/rail_demos_only_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/rail_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/rail_evaluation_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/documentation/slrail_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/rail_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/rail_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/rail_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/rail_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/rail_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/rail/rail_demos_only_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.rail"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695" label="Wi-SUN" description="&lt;pre>Silicon Labs Wi-SUN SDK&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.sisdk:2024.12.0._1750159695"/>
+    <properties key="core.version" value="2.3.0.0_-563669364"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32fg25.* .*efr32fg28.* .*efr32zg28.*"/>
+    <properties key="sdk.subLabel" value="Wi-SUN\ 2.3.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/../../platform/radio/efr32_multiphy_configurator /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/component/wisun_config/scripts /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/component/wisun_config/scripts/ddp"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/wisun_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/wisun_br_demos_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/wisun_evaluation_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/documentation/slWi-SUN_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/wisun_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/wisun_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/wisun_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/wisun_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/wisun_br_demos_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/simplicity_sdk/app/wisun/wisun_evaluation_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.wisun"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="Amazon" description="&lt;pre>Amazon&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/amazon/app_amazon.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="3.3.0.0_-578014771"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="Amazon\ 202012.00"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/amazon/amazon_platform_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/amazon/amazon_bluetooth_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/amazon/amazon_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/amazon/amazon_production_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/amazon/amazon_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.amazon"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="32-bit MCU SDK" description="&lt;pre>Silicon Labs 32-bit MCU SDK for EFM32 and EZR32&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/mcu_example/app_mcu.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="6.6.2.0_-757191652"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value="mcu.arm.efm32.* mcu.arm.ezr32.* .*wgm16.*"/>
+    <properties key="sdk.subLabel" value="MCU\ 6.6.2.0"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/mcu_example/mcu_production_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/mcu_example/mcu_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/mcu_example/mcu_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/mcu_example/mcu_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/mcu_example/mcu_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/mcu_example/mcu_internal_demos.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/mcu_example/documentation/slMCU_docContent.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.mcu"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="Micrium OS Kernel" description="&lt;pre>SL-MOS-KRNX-000000-P-P1&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/platform/micrium_os/micrium-krnx.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="5.15.0._1435748040"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value="mcu.arm.efm32.g..* mcu.arm.efm32.gg.* mcu.arm.efm32.hg.* mcu.arm.efm32.pg.* mcu.arm.efm32.pg12.* mcu.arm.efm32.jg.* mcu.arm.efm32.jg12.* mcu.arm.efm32.lg.* mcu.arm.efm32.wg.* mcu.arm.efr32.*"/>
+    <properties key="sdk.subLabel" value="Micrium\ OS\ Kernel\ 5.14.00"/>
+    <properties key="installedUnit" value="krnx"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/platform/micrium_os/micrium-krnx-docs.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.micrium"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="Platform" description="&lt;pre>Platform&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/common/app_common.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="4.4.2.0_-1274113235"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="Platform\ 4.4.2.0"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/common/platform_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/common/platform_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/common/builtin_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/common/platform_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/common/platform_internal_templates.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/common/platform_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/common/platform_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/common/platform_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/common/platform_deprecated_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.platform"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="Gecko Bootloader" description="&lt;pre>Gecko Bootloader for EFM32 and EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/platform/bootloader/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="2.1.0._1740039616"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="protocol.protocolKey" value="BOOTLOADER"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/platform/bootloader/bootloader_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/platform/bootloader/bootloader_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/platform/bootloader/bootloader_production_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/platform/bootloader/documentation/gecko_bootloader_documentation.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.bootloader"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="OpenThread SDK" description="&lt;pre>OpenThread stack support for EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/openthread/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="2.4.2.0_1626416790"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32m[gr].*"/>
+    <properties key="sdk.subLabel" value="OpenThread\ 2.4.2.0\ (GitHub-7074a43e4)"/>
+    <properties key="protocol.protocolKey" value="openthread"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/openthread/openthread_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/openthread/openthread_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/openthread/openthread_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/openthread/openthread_production_templates.xml"/>
+    <properties key="useGCCUserObjs" value="openthread"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/openthread/documentation/slOpenThread_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/openthread/openthread_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/openthread/openthread_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/openthread/openthread_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/openthread/openthread_investigation_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="sdk.useGCCUserObjs" value="openthread"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.openthread"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="USB SDK" description="&lt;pre>USB stack support for EFM32 and EFR32 devices&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/usb/usb.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="1.2.0.0_747014580"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="sdk.subLabel" value="USB\ 1.2.0.0"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.usb"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="EmberZNet SDK" description="&lt;pre>Silicon Labs EmberZNet SDK&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="7.4.2.0_2070847904"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*host.* .*efr32mg(12|13)p.* .*efr32mg2[1247].* .*mgm(12|13|21|22|24).* .*rm21.*"/>
+    <properties key="sdk.subLabel" value="EmberZNet\ 7.4.2.0"/>
+    <properties key="protocol.protocolKey" value="znet"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/smart-energy_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/zigbee-dmp-gp-proxy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/zigbee_development_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/zigbee_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/sleepy-to-sleepy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/zigbee_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/zigbee_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/zigbee_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/wwah_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/smart-energy_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/pro-compliance_internal_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/documentation/slEmberZNet_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/zigbee_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/zigbee_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/zigbee_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/zigbee/zigbee_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.znet"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="Z-Wave SDK" description="&lt;pre>Silicon Labs Z-Wave SDK for the EFR32 family&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="7.21.2.0_-1560741762"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*zgm13.* .*efr32zg.* .*zgm23.*"/>
+    <properties key="sdk.subLabel" value="Z-Wave\ SDK\ 7.21.2.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/ZAF/tool/cc_configurator"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/z-wave_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/z-wave_alpha_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/z-wave_beta_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/z-wave_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/z-wave_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/z-wave_development_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/docs_public/docs.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/Apps/bin/demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/z-wave_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/z-wave_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/z-wave_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/z-wave_test_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/z-wave_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/protocol/z-wave/z-wave_development_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.zwave"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="Bluetooth SDK" description="&lt;pre>Bluetooth Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="7.1.0.0_413979587"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32[bm]g(1[bp23]|2[124]).* .*efr32(mg14).* .*bgm(1|13|21|22|24).* .*mgm(1|12|13|21|22|24).*"/>
+    <properties key="sdk.subLabel" value="Bluetooth\ 7.1.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/../../protocol/bluetooth/bin/gatt"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/bluetooth_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/bluetooth_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/bluetooth_evaluation_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/bluetooth_deprecated_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/bluetooth_internal_templates.xml"/>
+    <properties key="bgbuildToolchain" value="true"/>
+    <properties key="btConfGattItemDatabases" value="sig silabs custom"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/documentation/slBluetooth_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="bleSDK.bgbuildLocation" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/../../protocol/bluetooth/bin"/>
+    <properties key="btconfGattItemSourcePath" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/gatt_xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/bluetooth_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/bluetooth_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/bluetooth_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/bluetooth_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/bluetooth_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="bleSDK.bgbuildToolchain" value="true"/>
+    <properties key="btGattConfiguratorGroup.btConfGattItemDatabases" value="sig silabs custom"/>
+    <properties key="btGattConfiguratorGroup.btconfGattItemSourcePath" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/bluetooth/gatt_xml"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.ble"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="Bluetooth Mesh SDK" description="&lt;pre>Bluetooth Mesh Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="6.1.0.0_1138168907"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32bg2(1|2.*f512|4).* .*efr32mg2[1247].* .*efr32[mb]g1[23]p.* .*mgm(1[23]|2[124]).* .*bgm(13|21|22.*hna|24).*"/>
+    <properties key="sdk.subLabel" value="Bluetooth\ Mesh\ 6.1.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/../../protocol/bluetooth/bin/gatt /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/script/generator"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_experimental_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_alpha_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_beta_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_test_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_srtest_internal_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_long_packets_test_internal_templates.xml"/>
+    <properties key="bgbuildToolchain" value="true"/>
+    <properties key="btConfGattItemDatabases" value="mesh"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/documentation/slBtMesh_docContent.xml"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="bleSDK.bgbuildLocation" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/../../protocol/bluetooth/bin"/>
+    <properties key="btconfGattItemSourcePath" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/gatt_xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_test_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/btmesh_internal_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="bleSDK.bgbuildToolchain" value="true"/>
+    <properties key="btGattConfiguratorGroup.btConfGattItemDatabases" value="mesh"/>
+    <properties key="btGattConfiguratorGroup.btconfGattItemSourcePath" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/btmesh/gatt_xml"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.btMesh"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="Flex SDK" description="&lt;pre>Flex Software Development Kit&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/flex/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="3.7.2.0_-4566970"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32mg.* .*efr32fg.* .*efr32bg.*"/>
+    <properties key="sdk.subLabel" value="Flex\ 3.7.2.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/flex/../../platform/radio/efr32_multiphy_configurator"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/flex/flex_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/flex/flex_demos_only_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/flex/flex_internal_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/flex/documentation/slFlex_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/flex/flex_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/flex/flex_experimental_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/flex/flex_evaluation_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/flex/flex_deprecated_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/flex/flex_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/flex/flex_demos_only_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.flex"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:4.4.2._1475498756" label="Wi-SUN" description="&lt;pre>Silicon Labs Wi-SUN SDK&lt;/pre>">
+    <properties key="core.installationPath" value="file:///Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/wisun/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:4.4.2._1475498756"/>
+    <properties key="core.version" value="1.10.0.0_-181102377"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.extensionPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value=".*efr32fg12.* .*efr32mg12.*"/>
+    <properties key="sdk.subLabel" value="Wi-SUN\ 1.10.0.0"/>
+    <properties key="sdk.adapterPacks" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/wisun/../../platform/radio/efr32_multiphy_configurator /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/wisun/component/wisun_config/scripts"/>
+    <properties key="core.boardCompatibility" value=".*"/>
+    <properties key="sdk.templatesFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/wisun/wisun_production_templates.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/wisun/wisun_br_demos_templates.xml"/>
+    <properties key="sdk.docsFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/wisun/documentation/slWi-SUN_docContent.xml"/>
+    <properties key="sdk.demosFile" value="/Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/wisun/wisun_production_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/wisun/wisun_beta_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/wisun/wisun_alpha_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/wisun/wisun_internal_demos.xml /Users/joseheinz/SimplicityStudio/SDKs/gecko_sdk_2/app/wisun/wisun_br_demos_demos.xml"/>
+    <properties key="signature_trust.requiresTrust" value="false"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="registry.providingDetector" value="com.silabs.ss.platform.internal.api.sdk.core.protocol.SDKProtocolDetector"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.wisun"/>
+  </descriptors>
+</model:MDescriptors>

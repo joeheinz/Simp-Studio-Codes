@@ -1,0 +1,67 @@
+# Silicon Labs Project Configuration Tools: slcp, v0, Component selection file.
+project_name: amazon_aws_soc_bt_tests_2
+label: amazon_aws_soc_bt_tests_2
+description: Project to run AWS Tests including BLE tests on Silicon Labs boards.
+category: Example|AWS IoT
+filter:
+- name: Device Type
+  value: [SoC]
+- name: Ecosystem
+  value: [Amazon]
+- name: Project Difficulty
+  value: [Advanced]
+- name: Wireless Technology
+  value: [Bluetooth]
+package: amazon_bluetooth
+quality: experimental
+source:
+- {path: main.c}
+tag: ['hardware:rf:band:2400', 'hardware:device:sdid:200|205|215', 'hardware:device:ram:64']
+sdk: {id: gecko_sdk, version: 4.4.2}
+toolchain_settings: []
+component:
+- {id: EFR32MG24B310F1536IM48}
+- {id: aws_tests_core}
+- {id: bluetooth_feature_connection}
+- {id: bluetooth_feature_dynamic_gattdb}
+- {id: bluetooth_feature_gatt}
+- {id: bluetooth_feature_gatt_server}
+- {id: bluetooth_feature_legacy_advertiser}
+- {id: bluetooth_feature_legacy_scanner}
+- {id: bluetooth_feature_nvm}
+- {id: bluetooth_feature_sm}
+- {id: bluetooth_feature_system}
+- {id: bluetooth_on_demand_start}
+- {id: bluetooth_rtos_adaptation}
+- {id: brd2601b}
+- {id: freertos}
+- instance: [vcom]
+  id: iostream_usart
+- {id: iot_ble}
+- {id: toolchain_gcc}
+define:
+- {name: SL_IOSTREAM_UART_FLUSH_TX_BUFFER}
+configuration:
+- {name: SL_BOARD_ENABLE_VCOM, value: '1'}
+- {name: SL_IOSTREAM_USART_VCOM_BAUDRATE, value: '115200'}
+- {name: SL_IOSTREAM_USART_VCOM_FLOW_CONTROL_TYPE, value: usartHwFlowControlNone}
+- {name: SL_IOSTREAM_USART_VCOM_RESTRICT_ENERGY_MODE_TO_ALLOW_RECEPTION, value: '0'}
+- {name: SL_IOSTREAM_USART_VCOM_CONVERT_BY_DEFAULT_LF_TO_CRLF, value: '1'}
+- {name: SL_MBEDTLS_SSL_IN_CONTENT_LEN, value: '5000'}
+- {name: SL_MBEDTLS_SSL_OUT_CONTENT_LEN, value: '5000'}
+- {name: SL_STACK_SIZE, value: '2752'}
+- {name: SL_HEAP_SIZE, value: '8000'}
+- {name: configTIMER_TASK_STACK_DEPTH, value: '600'}
+- {name: SL_BT_GATTDB_INCLUDE_STATIC_DATABASE, value: '0'}
+- {name: configTOTAL_HEAP_SIZE, value: '30000'}
+- {name: AWS_TEST_RUNNER_DELAY_MS, value: '5000'}
+- {name: testrunnerFULL_BLE_ENABLED, value: '1'}
+- {name: SL_BT_HAL_DEFAULT_IO_CAPABILITIES, value: sl_bt_sm_io_capability_displayyesno}
+- {name: SL_BT_HAL_DEFAULT_SECURITY_CONFIG_BONDING_REQUIRES_MITM_PROTECTION, value: '1'}
+- {name: SL_BT_HAL_DEFAULT_SECURITY_CONFIG_ENCRYPTION_REQUIRES_BONDING, value: '1'}
+- {name: SL_BT_HAL_DEFAULT_SECURITY_CONFIG_SECURE_CONNECTIONS_ONLY, value: '1'}
+- {name: SL_BT_HAL_DEFAULT_SECURITY_CONFIG_BONDING_REQUESTS_NEED_TO_BE_CONFIRMED,
+  value: '0'}
+- {name: SL_BT_HAL_DEFAULT_SECURITY_CONFIG_CONNECTIONS_ONLY_FROM_BONDED_DEVICES, value: '0'}
+ui_hints: {}
+

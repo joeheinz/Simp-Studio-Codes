@@ -1,0 +1,1267 @@
+!SESSION 2025-01-27 11:15:06.378 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.3
+java.vendor=Amazon.com Inc.
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/joseheinz/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -keyring /Users/joseheinz/.eclipse_keyring
+
+This is a continuation of log file /Users/joseheinz/SimplicityStudio/v5_workspace/.metadata/.bak_0.log
+Created Time: 2025-01-27 11:15:11.288
+
+!ENTRY com.silabs.ss.platform.rcp.core 2 0 2025-01-27 11:15:11.288
+!MESSAGE Invalid discovery key: null
+
+!ENTRY com.silabs.ss.tool.installer.core 1 0 2025-01-27 11:15:11.370
+!MESSAGE isInternalNetwork: false
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.075
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.075
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.077
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.077
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.079
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.080
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.083
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.083
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.086
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.089
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.408
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.409
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.585
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.585
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.715
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.715
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.897
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:12.897
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:13.185
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:13.185
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:13.586
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:13.586
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:13.810
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:13.810
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:13.811
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:13.811
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:13.811
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:13.811
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.002
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.002
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.002
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.002
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.223
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.223
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.283
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.283
+!MESSAGE KeilToolchainDetector: LIB51 LIBRARY MANAGER V4.30.1.0
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.283
+!MESSAGE KeilToolchainDetector: COPYRIGHT KEIL ELEKTRONIK GmbH 1987 - 2014
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.283
+!MESSAGE KeilToolchainDetector: *** ERROR 209: UNRECOGNIZED COMMAND
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.283
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:15:14.293
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.383
+!MESSAGE KeilToolchainDetector: 2025-01-27 11:15:14.383 wine64-preloader[19537:1506724] +[IMKClient subclass]: chose IMKClient_Modern
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.463
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.574
+!MESSAGE KeilToolchainDetector: 2025-01-27 11:15:14.573 wine64-preloader[19536:1506723] +[IMKClient subclass]: chose IMKClient_Modern
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.656
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.657
+!MESSAGE KeilToolchainDetector: BL51 BANKED LINKER/LOCATER V6.22.2.0 - SN: Eval Version
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.657
+!MESSAGE KeilToolchainDetector: COPYRIGHT ARM Germany GmbH 1987 - 2017
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.657
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.657
+!MESSAGE KeilToolchainDetector: *** FATAL ERROR L212: I/O ERROR ON LISTING FILE:
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.657
+!MESSAGE KeilToolchainDetector:     EXCEPTION 0029H: ACCESS TO FILE DENIED
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.657
+!MESSAGE KeilToolchainDetector:     FILE: /?.M51
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.817
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.817
+!MESSAGE KeilToolchainDetector: A51 MACRO ASSEMBLER V8.2.7.0 - SN: Eval Version
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.817
+!MESSAGE KeilToolchainDetector: COPYRIGHT ARM Germany GmbH 2016
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.817
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.817
+!MESSAGE KeilToolchainDetector: A51 FATAL ERROR -
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.818
+!MESSAGE KeilToolchainDetector:   FILE:       /?
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.818
+!MESSAGE KeilToolchainDetector:   ERROR:      FILE DOES NOT EXIST
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.818
+!MESSAGE KeilToolchainDetector: A51 TERMINATED.
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-27 11:15:14.818
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:15:19.102
+!MESSAGE AdapterPack Device inspector for Exx32 and EFM8 hardware has setupcheck function type 
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:15:19.395
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:15:19.458
+!MESSAGE AdapterPack USB adapter pack has setupcheck function type 
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:15:31.020
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:15:31.540
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.platform.content.core 4 0 2025-01-27 11:15:38.130
+!MESSAGE Asset Loading Errors:
+Asset com.silabs.ss.platform.internal.content.core.asset.model.impl.AssetImpl@75b1e9c (version: null, changelog: null, path: /aem/www.silabs.com/documents/public/data-sheets/siwx917-ncp-datasheet.pdf, diskSizeKB: 0.0, downloadSizeKB: 0.0, directory: false, category: null, label: null, description: null, priority: 0, keywords: null) is missing required properties.  Ignoring...
+
+
+!ENTRY com.silabs.ss.tool.installer.core 2 0 2025-01-27 11:15:42.146
+!MESSAGE Problem getting package resources: changelog
+
+!ENTRY com.silabs.ss.tool.installer.core 2 0 2025-01-27 11:15:42.148
+!MESSAGE Problem getting package resources: changelog
+
+!ENTRY com.silabs.ss.platform.rcp.core 2 0 2025-01-27 11:16:15.619
+!MESSAGE Invalid discovery key: null
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:16:18.627
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:16:23.325
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:16:23.850
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:18:05.888
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:18:10.500
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:18:43.733
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY org.eclipse.tcf 4 0 2025-01-27 11:18:54.952
+!MESSAGE Cannot send datagram packet to /169.254.255.255
+!STACK 0
+java.net.NoRouteToHostException: No route to host
+	at java.base/sun.nio.ch.DatagramChannelImpl.send0(Native Method)
+	at java.base/sun.nio.ch.DatagramChannelImpl.sendFromNativeBuffer(DatagramChannelImpl.java:901)
+	at java.base/sun.nio.ch.DatagramChannelImpl.send(DatagramChannelImpl.java:863)
+	at java.base/sun.nio.ch.DatagramChannelImpl.send(DatagramChannelImpl.java:821)
+	at java.base/sun.nio.ch.DatagramChannelImpl.blockingSend(DatagramChannelImpl.java:853)
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.send(DatagramSocketAdaptor.java:218)
+	at java.base/java.net.DatagramSocket.send(DatagramSocket.java:664)
+	at org.eclipse.tcf.internal.services.local.LocatorService.sendDatagramPacket(LocatorService.java:964)
+	at org.eclipse.tcf.internal.services.local.LocatorService.sendEmptyPacket(LocatorService.java:1101)
+	at org.eclipse.tcf.internal.services.local.LocatorService.sendAll(LocatorService.java:1118)
+	at org.eclipse.tcf.internal.services.local.LocatorService.refresh_timer(LocatorService.java:714)
+	at org.eclipse.tcf.internal.services.local.LocatorService.access$1(LocatorService.java:665)
+	at org.eclipse.tcf.internal.services.local.LocatorService$1$1.run(LocatorService.java:232)
+	at org.eclipse.tcf.protocol.Protocol$3.run(Protocol.java:242)
+	at org.eclipse.tcf.EventQueue.run(EventQueue.java:97)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:19:13.676
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:22:26.625
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:23:34.014
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-27 11:24:32.245
+!MESSAGE Environment modified for executable commander:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/commander/Commander.app/Contents/Frameworks, SHELL=/bin/zsh, USER=joseheinz, JAVA_STARTED_ON_FIRST_THREAD_19479=1, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.uhdNfriJgr/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, HOME=/Users/joseheinz}
+
+!ENTRY org.eclipse.ui.console 4 2 2025-01-27 11:53:43.598
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.swt.custom.StyledText.setBackground(org.eclipse.swt.graphics.Color)" because the return value of "org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleViewer.getTextWidget()" is null
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:262)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsole.setBackground(BuildConsole.java:133)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:374)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4568)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3998)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2025-01-27 11:53:43.598
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.swt.custom.StyledText.setBackground(org.eclipse.swt.graphics.Color)" because the return value of "org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleViewer.getTextWidget()" is null
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:262)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsole.setBackground(BuildConsole.java:133)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:374)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4568)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3998)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 2 2025-01-27 11:53:43.599
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.swt.custom.StyledText.setBackground(org.eclipse.swt.graphics.Color)" because the return value of "org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleViewer.getTextWidget()" is null
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:262)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsole.setBackground(BuildConsole.java:133)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:374)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4568)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3998)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2025-01-27 11:53:43.599
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.swt.custom.StyledText.setBackground(org.eclipse.swt.graphics.Color)" because the return value of "org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleViewer.getTextWidget()" is null
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:262)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsole.setBackground(BuildConsole.java:133)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:374)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4568)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3998)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 2 2025-01-27 11:53:43.603
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:811)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:935)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:356)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4568)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3998)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2025-01-27 11:53:43.603
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:811)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:935)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:356)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4568)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3998)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 2 2025-01-27 11:53:43.603
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:811)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:935)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:356)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4568)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3998)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2025-01-27 11:53:43.603
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:811)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:935)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:356)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4568)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3998)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 2 2025-01-27 11:53:43.604
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:811)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:935)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:362)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4568)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3998)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2025-01-27 11:53:43.604
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:811)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:935)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:362)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4568)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3998)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 2 2025-01-27 11:53:43.604
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:811)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:935)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:362)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4568)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3998)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2025-01-27 11:53:43.604
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:811)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:935)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:362)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4568)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3998)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2025-01-27 11:53:43.610
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.swt.custom.StyledText.redraw()" because the return value of "org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleViewer.getTextWidget()" is null
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4320)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3943)
+	at org.eclipse.swt.widgets.Display.release(Display.java:4027)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2025-01-27 11:53:43.610
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.swt.custom.StyledText.redraw()" because the return value of "org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleViewer.getTextWidget()" is null
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4320)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3943)
+	at org.eclipse.swt.widgets.Display.release(Display.java:4027)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2025-01-27 11:53:43.610
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.swt.custom.StyledText.redraw()" because the return value of "org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleViewer.getTextWidget()" is null
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4320)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3943)
+	at org.eclipse.swt.widgets.Display.release(Display.java:4027)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2025-01-27 11:53:43.611
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.swt.custom.StyledText.redraw()" because the return value of "org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleViewer.getTextWidget()" is null
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4320)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3943)
+	at org.eclipse.swt.widgets.Display.release(Display.java:4027)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2025-01-27 11:53:43.611
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.swt.custom.StyledText.redraw()" because the return value of "org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleViewer.getTextWidget()" is null
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4320)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3943)
+	at org.eclipse.swt.widgets.Display.release(Display.java:4027)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2025-01-27 11:53:43.611
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.swt.custom.StyledText.redraw()" because the return value of "org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleViewer.getTextWidget()" is null
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4320)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3943)
+	at org.eclipse.swt.widgets.Display.release(Display.java:4027)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:240)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at com.silabs.ss.platform.internal.product.Application.start(Application.java:38)
+	at com.silabs.ss.tool.launcher.internal.product.StudioV5Application.start(StudioV5Application.java:28)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+!SESSION 2025-01-29 11:57:39.104 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.3
+java.vendor=Amazon.com Inc.
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/joseheinz/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -keyring /Users/joseheinz/.eclipse_keyring
+
+!ENTRY com.silabs.ss.platform.rcp.core 2 0 2025-01-29 11:57:39.769
+!MESSAGE Logging bundle not found: com.silabs.ss.logger, logging not initialized.
+
+!ENTRY com.silabs.ss.platform.jetty.server 1 0 2025-01-29 11:57:40.800
+!MESSAGE Jetty listening on: http://127.0.0.1:50426/
+
+!ENTRY com.silabs.ss.platform.jetty.server 1 0 2025-01-29 11:57:40.981
+!MESSAGE ContentServer started at: 127.0.0.1, 50426
+
+!ENTRY com.silabs.ss.platform.rcp.core 1 0 2025-01-29 11:57:41.005
+!MESSAGE com.silabs.ss.tool.launcher.product found! Writing main studio shared file
+
+!ENTRY com.silabs.ss.platform.descriptor.core 2 0 2025-01-29 11:57:41.939
+!MESSAGE re-registering property: com.silabs.ss.platform.api.descriptor.core.model.impl.MPropertyImpl@d6a929b (id: universalConfig.compSelProjInstanceId, name: compSelProjInstanceId, label: null, description: specific id for this instance of a project) (propertyScope: ) (id: universalConfig.compSelProjInstanceId, type: String, defaultValueLiteral: null)
+
+!ENTRY com.silabs.ss.platform.content.core 4 0 2025-01-29 11:57:42.113
+!MESSAGE Asset Loading Errors:
+Asset com.silabs.ss.platform.internal.content.core.asset.model.impl.AssetImpl@15943396 (version: null, changelog: null, path: /aem/www.silabs.com/documents/public/data-sheets/siwx917-ncp-datasheet.pdf, diskSizeKB: 0.0, downloadSizeKB: 0.0, directory: false, category: null, label: null, description: null, priority: 0, keywords: null) is missing required properties.  Ignoring...
+
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:47.932
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:47.933
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:47.933
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:47.933
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:47.934
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:47.935
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:47.937
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:47.937
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:47.937
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:47.937
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:48.715
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:48.715
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:49.592
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:49.592
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:49.694
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:49.694
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:51.414
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:51.414
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:51.597
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:51.597
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:52.888
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:52.888
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.433
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.433
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.434
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.434
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.434
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.434
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.764
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.765
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.806
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.806
+!MESSAGE KeilToolchainDetector: LIB51 LIBRARY MANAGER V4.30.1.0
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.806
+!MESSAGE KeilToolchainDetector: COPYRIGHT KEIL ELEKTRONIK GmbH 1987 - 2014
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.806
+!MESSAGE KeilToolchainDetector: *** ERROR 209: UNRECOGNIZED COMMAND
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:53.806
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:55.229
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:55.230
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:55.230
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:55.230
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000110000-0000000068000000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:56.932
+!MESSAGE KeilToolchainDetector: 2025-01-29 11:57:56.931 wine64-preloader[2303:95044] +[IMKClient subclass]: chose IMKClient_Modern
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.004
+!MESSAGE KeilToolchainDetector: preloader: Warning: failed to reserve range 0000000000010000-0000000000110000
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.102
+!MESSAGE KeilToolchainDetector: 2025-01-29 11:57:57.102 wine64-preloader[2304:95045] +[IMKClient subclass]: chose IMKClient_Modern
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.408
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.408
+!MESSAGE KeilToolchainDetector: BL51 BANKED LINKER/LOCATER V6.22.2.0 - SN: Eval Version
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.408
+!MESSAGE KeilToolchainDetector: COPYRIGHT ARM Germany GmbH 1987 - 2017
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.408
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.409
+!MESSAGE KeilToolchainDetector: *** FATAL ERROR L212: I/O ERROR ON LISTING FILE:
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.409
+!MESSAGE KeilToolchainDetector:     EXCEPTION 0029H: ACCESS TO FILE DENIED
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.409
+!MESSAGE KeilToolchainDetector:     FILE: /?.M51
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.411
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.411
+!MESSAGE KeilToolchainDetector: A51 MACRO ASSEMBLER V8.2.7.0 - SN: Eval Version
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.411
+!MESSAGE KeilToolchainDetector: COPYRIGHT ARM Germany GmbH 2016
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.411
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.411
+!MESSAGE KeilToolchainDetector: A51 FATAL ERROR -
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.412
+!MESSAGE KeilToolchainDetector:   FILE:       /?
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.412
+!MESSAGE KeilToolchainDetector:   ERROR:      FILE DOES NOT EXIST
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.412
+!MESSAGE KeilToolchainDetector: A51 TERMINATED.
+
+!ENTRY com.silabs.ss.tool.ide.c8051.toolchain.keil.cdt 4 0 2025-01-29 11:57:57.412
+!MESSAGE KeilToolchainDetector: 
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-29 11:58:02.432
+!MESSAGE Environment modified for executable usb_monitor:
+{PATH=/usr/bin:/bin:/usr/sbin:/sbin, __CFBundleIdentifier=studio, DYLD_LIBRARY_PATH=/Applications/Simplicity Studio.app/Contents/Eclipse/developer/adapter_packs/usb, SHELL=/bin/zsh, USER=joseheinz, TMPDIR=/var/folders/h4/99zkqrfj55s83p1q3x8dc1kh0000gn/T/, COMMAND_MODE=unix2003, SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.l3FXDtgdGV/Listeners, XPC_FLAGS=0x0, __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0, LOGNAME=joseheinz, XPC_SERVICE_NAME=application.studio.4768769.18477635, JAVA_STARTED_ON_FIRST_THREAD_2065=1, HOME=/Users/joseheinz}
+
+!ENTRY com.silabs.ss.tool.installer.core 1 0 2025-01-29 11:58:02.715
+!MESSAGE isInternalNetwork: false
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-29 11:58:03.516
+!MESSAGE AdapterPack Device inspector for Exx32 and EFM8 hardware has setupcheck function type 
+
+!ENTRY com.silabs.ss.platform.apack.core 1 0 2025-01-29 11:58:03.874
+!MESSAGE AdapterPack USB adapter pack has setupcheck function type 
+
+!ENTRY com.silabs.ss.platform.content.core 4 0 2025-01-29 11:58:06.263
+!MESSAGE Asset Loading Errors:
+Asset com.silabs.ss.platform.internal.content.core.asset.model.impl.AssetImpl@48d66f9c (version: null, changelog: null, path: /aem/www.silabs.com/documents/public/data-sheets/siwx917-ncp-datasheet.pdf, diskSizeKB: 0.0, downloadSizeKB: 0.0, directory: false, category: null, label: null, description: null, priority: 0, keywords: null) is missing required properties.  Ignoring...
+
+
+!ENTRY com.silabs.ss.platform.useraccounts.core 4 0 2025-01-29 11:58:08.033
+!MESSAGE Error in connection authentication or validation
+!STACK 0
+com.sforce.ws.SoapFaultException: StudioService: no access allowed to this class.
+	at com.sforce.ws.transport.SoapConnection.createException(SoapConnection.java:212)
+	at com.sforce.ws.transport.SoapConnection.receive(SoapConnection.java:156)
+	at com.sforce.ws.transport.SoapConnection.send(SoapConnection.java:99)
+	at com.sforce.soap.StudioService.SoapConnection.isValidated(SoapConnection.java:177)
+	at com.silabs.ss.platform.internal.useraccounts.core.salesforce.impl.SilabsSFAuthService.isValidated(SilabsSFAuthService.java:1019)
+	at com.silabs.ss.platform.internal.useraccounts.core.salesforce.impl.SilabsSFAuthService.createConnection(SilabsSFAuthService.java:257)
+	at com.silabs.ss.platform.internal.useraccounts.core.salesforce.impl.SilabsSFAuthService.getSecuredUpdateRepos(SilabsSFAuthService.java:358)
+	at com.silabs.ss.platform.internal.useraccounts.core.salesforce.impl.SecureSFContentLocator.getAssetManifests(SecureSFContentLocator.java:38)
+	at com.silabs.ss.platform.internal.useraccounts.core.salesforce.impl.SecureSFContentLocator.getAvailableSecuredContent(SecureSFContentLocator.java:28)
+	at com.silabs.ss.platform.api.security.core.SecurityHelper.lambda$0(SecurityHelper.java:35)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at com.silabs.ss.platform.api.security.core.SecurityHelper.getAvailableSecuredContent(SecurityHelper.java:37)
+	at com.silabs.ss.platform.internal.api.content.core.asset.AssetService.getAvailableSecuredContent(AssetService.java:1158)
+	at com.silabs.ss.platform.internal.api.content.core.asset.AssetService.getSecuredAssetManifestNames(AssetService.java:1162)
+	at com.silabs.ss.platform.internal.api.content.core.asset.AssetService.fetchAssetsFiles(AssetService.java:1143)
+	at com.silabs.ss.platform.internal.api.content.core.asset.AssetService.checkForUpdates(AssetService.java:540)
+	at com.silabs.ss.platform.api.content.core.metadata.MetadataUtils$1.run(MetadataUtils.java:72)
+
+!ENTRY org.eclipse.core.jobs 4 2 2025-01-29 11:58:13.153
+!MESSAGE An internal error occurred during: "C/C++ Indexer".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.equinox.log.ExtendedLogReaderService.addLogListener(org.osgi.service.log.LogListener, org.eclipse.equinox.log.LogFilter)" because "logReader" is null
+	at org.eclipse.core.internal.runtime.InternalPlatform.lambda$11(InternalPlatform.java:366)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1740)
+	at org.eclipse.core.internal.runtime.InternalPlatform.getLog(InternalPlatform.java:361)
+	at org.eclipse.core.runtime.Plugin.getLog(Plugin.java:237)
+	at org.eclipse.cdt.core.CCorePlugin.log(CCorePlugin.java:1612)
+	at org.eclipse.cdt.core.CCorePlugin.log(CCorePlugin.java:1591)
+	at org.eclipse.cdt.core.CCorePlugin.log(CCorePlugin.java:1578)
+	at org.eclipse.cdt.internal.core.pdom.PDOMIndexerJob.run(PDOMIndexerJob.java:175)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
