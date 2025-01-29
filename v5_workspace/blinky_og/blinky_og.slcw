@@ -1,7 +1,0 @@
----
-label: "blinky_og"
-quality: "unknown"
-project:
-- id: "main"
-  path: "blinky_og.slcp"
-  output: "."
