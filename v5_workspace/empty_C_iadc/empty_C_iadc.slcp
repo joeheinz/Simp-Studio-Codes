@@ -1,0 +1,50 @@
+# Silicon Labs Project Configuration Tools: slcp, v0, Component selection file.
+project_name: empty_C_iadc
+label: empty_C_iadc
+description: |
+  This example project shows an empty configuration that can be used as a starting point to add components and functionality.
+category: Example|Platform
+filter:
+- name: Device Type
+  value: [SoC]
+- name: MCU
+  value: [32-bit MCU]
+- name: Project Difficulty
+  value: [Beginner]
+package: platform
+quality: production
+readme:
+- {path: readme.md}
+- {path: readme.md}
+source:
+- {path: app.c}
+- {path: main.c}
+include:
+- path: .
+  file_list:
+  - {path: app.h}
+sdk: {id: gecko_sdk, version: 4.4.2}
+toolchain_settings: []
+component:
+- {id: BGM111A256V2}
+- {id: app_timer_freertos_static}
+- {id: bluetooth_feature_dynamic_gattdb}
+- {id: bluetooth_feature_gatt}
+- {id: brd4001a}
+- {id: brd4300a_a03}
+- {id: btmesh_stack_advertiser_legacy}
+- {id: coremark}
+- {id: device_init}
+- {id: gatt_service_aio}
+- {id: gatt_service_battery}
+- {id: gatt_service_device_information}
+- {id: ibeacon}
+- {id: iostream_debug}
+- {id: ncp_gatt}
+- {id: sl_system}
+define:
+- {name: DEBUG_EFM}
+ui_hints:
+  highlight:
+  - {path: readme.md, focus: true}
+
